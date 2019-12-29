@@ -4,10 +4,10 @@ https://github.com/kempelBLR/git_training
 
 tut.by
 
-onliner.by
+onliner.uk
 
-drive2.ru
+drive2.com
 
-hub.com
+hub.ru
 
-hihi.org
+hihi.ru
