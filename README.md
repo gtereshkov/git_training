@@ -2,14 +2,14 @@ atata TEST project
 
 https://github.com/kempelBLR/git_training
 
-tut.by
+t1ut.by
 
-onliner.uk
+onliner.by
 
-drive2.com
+driv1e2.ru
 
-hub11.ru
+hub.com
 
-hihi.ru
+hih2i.org
 
-asd
+asdD
